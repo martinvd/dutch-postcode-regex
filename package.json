@@ -1,0 +1,41 @@
+{
+  "name": "dutch-postcode-regex",
+  "version": "0.0.0",
+  "description": "Regular expression for matching Dutch postcodes",
+  "license": "MIT",
+  "repository": "martinvd/dutch-postcode-regex",
+  "author": {
+    "name": "Martin van Driel",
+    "email": "martinvd@gmail.com",
+    "url": "https://martinvandriel.com"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "dutch",
+    "netherlands",
+    "nederlands",
+    "postcode",
+    "zipcode",
+    "regex",
+    "regexp",
+    "match",
+    "test",
+    "find",
+    "validate"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "space": true
+  }
+}
