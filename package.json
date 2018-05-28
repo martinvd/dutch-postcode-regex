@@ -1,6 +1,6 @@
 {
   "name": "dutch-postcode-regex",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression for matching Dutch postcodes",
   "license": "MIT",
   "repository": "martinvd/dutch-postcode-regex",
